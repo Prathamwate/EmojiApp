@@ -1,0 +1,33 @@
+ body{
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .main {
+    text-align: center;
+  }
+  
+  h1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+  }
+
+  .input{
+    padding: 30px;
+    border: 2px solid;
+  }
+
+  #searchResultContainer{
+    padding-left: 50px;
+    padding-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+  }
+
+  #res{
+    background-color: #FFFFFF;
+    padding: 10px;
+    border: 2px solid;
+  }
