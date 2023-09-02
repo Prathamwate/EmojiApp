@@ -12,7 +12,8 @@ Dependencies
 This emoji search app is built using HTML, JavaScript, and CSS. It does not rely on any external libraries or frameworks.
 
 ## Hosted Link
--
+-https://prathamwate.github.io/EmojiApp/
 
 ## How to User 
+-clone this repository -
  
